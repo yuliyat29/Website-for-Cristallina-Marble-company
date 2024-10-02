@@ -2,8 +2,6 @@
 
  <img width="1413" alt="Screenshot 2024-08-14 at 09 45 15" src="https://github.com/user-attachments/assets/43b22951-89db-453d-92c2-66a2cf04fa09">
 
-====================
-
 This archive contains various files related to the Granito project. Below is a description of some key files and directories:
 
 Directories:
